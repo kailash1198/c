@@ -6,8 +6,8 @@ int main()
     // int luckyNum[] = {1,2,3,4,5};
     // printf("%d", luckyNum[1]);
 
-    // char userName[20] = "Kailash Kumar";
-    // printf("%s", userName);
+    char userName[20] = "Kailash Kumar";
+    printf("%s", userName);
 
     // int sum(int a, int b)
     // {
